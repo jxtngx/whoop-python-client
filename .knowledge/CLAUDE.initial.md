@@ -20,13 +20,14 @@ first read the [api reference](https://www.python-httpx.org/api/), then, for eac
 - generate pydantic models in [src/whoop_client/models/](src/whoop_client/models/) based on the expected request and response bodies
 - generate a client in [src/whoop_client/client.py](src/whoop_client/client.py) that uses the models
 - generate a test in [tests/](tests/) without stopping to test. proceed with the next instruction
-- document the client method in [docs/endpoints/](docs/endpoints/) using mkdocstrings compatible markdown
+- document the client method in [docs/reference/](docs/reference/) using mkdocstrings compatible markdown
 
 when finished, do the following:
 
 - write a getting started guide in docs/getting-started.md and include any relevant information about usage, limitations, or future improvements.
 - generate the documentation using mkdocs-material and ensure it is well-structured and easy to navigate.
 - copy the contents of this file to [.knowledge/CLAUDE.initial.md](.knowledge/CLAUDE.initial.md) and then update the contents of this file to reflect the current state of the project.
+
 # important-instruction-reminders
 Do what has been asked; nothing more, nothing less.
 NEVER create files unless they're absolutely necessary for achieving your goal.
