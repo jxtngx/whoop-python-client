@@ -1,10 +1,10 @@
-# User Endpoints
+# User Methods
 
-The user endpoints provide access to user profile information and body measurements.
+The user methods provide access to user profile information and body measurements.
 
 ## Overview
 
-These endpoints allow you to retrieve basic profile information and physical measurements for the authenticated user.
+These methods allow you to retrieve basic profile information and physical measurements for the authenticated user.
 
 ## Methods
 

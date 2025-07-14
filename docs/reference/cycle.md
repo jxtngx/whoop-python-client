@@ -1,6 +1,6 @@
-# Cycle Endpoints
+# Cycle Methods
 
-The cycle endpoints provide access to physiological cycle data, which represents periods of activity and strain in a user's day.
+The cycle methods provide access to physiological cycle data, which represents periods of activity and strain in a user's day.
 
 ## Overview
 
@@ -173,7 +173,7 @@ asyncio.run(get_cycle_sleep_example())
 
 ## Rate Limiting
 
-The cycle endpoints are subject to WHOOP's rate limiting. The client will automatically handle token refresh, but you should implement appropriate retry logic with exponential backoff for rate limit errors.
+The cycle methods are subject to WHOOP's rate limiting. The client will automatically handle token refresh, but you should implement appropriate retry logic with exponential backoff for rate limit errors.
 
 ## Error Handling
 

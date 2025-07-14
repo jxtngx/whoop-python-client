@@ -9,16 +9,14 @@ repo_url: https://github.com/jxtngx/whoop-python-client
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
-  - API Reference:
-    - Client: reference/client.md
+  - Reference:
     - Authentication: reference/auth.md
+    - Cycles: reference/cycle.md
+    - Sleep: reference/sleep.md
+    - Recovery: reference/recovery.md
+    - User: reference/user.md
+    - Workouts: reference/workout.md
     - Models: reference/models.md
-  - Endpoints:
-    - Cycles: endpoints/cycle.md
-    - Sleep: endpoints/sleep.md
-    - Recovery: endpoints/recovery.md
-    - User: endpoints/user.md
-    - Workouts: endpoints/workout.md
 
 theme:
   name: material

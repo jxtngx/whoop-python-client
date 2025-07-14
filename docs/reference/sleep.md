@@ -1,6 +1,6 @@
-# Sleep Endpoints
+# Sleep Methods
 
-The sleep endpoints provide access to sleep activity data and sleep performance metrics.
+The sleep methods provide access to sleep activity data and sleep performance metrics.
 
 ## Overview
 
@@ -160,7 +160,7 @@ asyncio.run(sleep_trends_analysis())
 
 ## Required Scopes
 
-- `read:sleep` - Required for all sleep endpoints
+- `read:sleep` - Required for all sleep methods
 
 ## Understanding Sleep Metrics
 
