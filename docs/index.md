@@ -187,11 +187,7 @@ except ValueError as e:
 
 ## License
 
-MIT License - see LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please see the contributing guidelines for details.
+Apache 2.0 License - see LICENSE file for details.
 
 ## Support
 
