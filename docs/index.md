@@ -60,31 +60,31 @@ asyncio.run(main())
 
 The client provides access to all WHOOP API v2 endpoints:
 
-### 🔄 Cycles
+### Cycles
 - Get specific cycle by ID
 - Get paginated cycle collection
 - Get sleep data for a cycle
 - Iterate through all cycles
 
-### 😴 Sleep
+### Sleep
 - Get specific sleep by ID
 - Get paginated sleep collection
 - Detailed sleep stage analysis
 - Sleep performance metrics
 
-### 🏃‍♂️ Recovery
+### Recovery
 - Get recovery collection
 - Get recovery for specific cycle
 - HRV and recovery score data
 - Skin temperature and SpO2 (4.0+ devices)
 
-### 🏋️‍♂️ Workouts
+### Workouts
 - Get specific workout by ID
 - Get paginated workout collection
 - Heart rate zones and strain data
 - Distance and altitude metrics
 
-### 👤 User
+### User
 - Basic profile information
 - Body measurements
 - Height, weight, and max heart rate
