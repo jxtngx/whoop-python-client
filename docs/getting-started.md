@@ -13,7 +13,7 @@ pip install whoop-python-client
 Or install from source:
 
 ```bash
-git clone https://github.com/your-username/whoop-python-client.git
+git clone https://github.com/jxtngx/whoop-python-client.git
 cd whoop-python-client
 pip install -e .
 ```

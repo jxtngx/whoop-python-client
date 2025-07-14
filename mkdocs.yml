@@ -1,10 +1,10 @@
 site_name: WHOOP Python Client
 site_description: A Python client for the WHOOP API
-site_author: Your Name
-site_url: https://your-username.github.io/whoop-python-client/
+site_author: Justin Goheen
+site_url: https://jxtngx/github.io/whoop-python-client/
 
 repo_name: whoop-python-client
-repo_url: https://github.com/your-username/whoop-python-client
+repo_url: https://github.com/jxtngx/whoop-python-client
 
 nav:
   - Home: index.md
@@ -93,16 +93,13 @@ markdown_extensions:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-      emoji_index: !!python/name:materialx.emoji.twemoji
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: your-username
+      user: jxtngx
       repo: whoop-python-client
   - pymdownx.mark
   - pymdownx.smartsymbols
@@ -120,8 +117,4 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/your-username/whoop-python-client
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/whoop-python-client/
-  version:
-    provider: mike
+      link: https://github.com/jxtngx/whoop-python-client
